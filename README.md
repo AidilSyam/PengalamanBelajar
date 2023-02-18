@@ -10,3 +10,10 @@ Belajar Kelas dimulai dengan mempelajari Git dan Github (progres 38%).
 Belajar Kelas Memulai dengan praktik penggunakan github. (progres 39%)
  * Belajar dan praktik membuat respository
  * Menambah Pengalaman Belajar Pertama
+
+**20 Februari 2023**  
+Memulai Kelas memulai dengan belajar dan praktik mendokumentsikan di Git dan Github. (progres 42%)
+ * Belajar dasar git dan github
+ * belajar mendalami git dan github serta toolsnya
+ * Mempetaktiktan serta melatih menggutakan github seperti membuat repository dan mengedit isi format .md
+ * Mengerjakan Ujian Akhir untuk menilai kemahiran diri. 
